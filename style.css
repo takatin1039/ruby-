@@ -72,6 +72,10 @@ header{
 
 
 }
+#Portfolio{
+	background-color: #ECEFF1;
+
+}
 
 .heading{
 	padding-top: 90px;
@@ -158,8 +162,12 @@ header{
 	font-size: 16px;
 	text-align: left;
 }
+#Profile{
+	background-color: #ECEFF1;
+}
 .profile-contents{
 	padding-top: 30px;
+	padding-bottom: 90px;
 
 }
 .face{
@@ -276,7 +284,9 @@ header{
 	padding-top: 200px;
 	font-size: 18px;
 
+
 }
+
 .main-visual-heading{
 	color: #FAFAFA;
 	text-align: center;
@@ -327,7 +337,9 @@ header{
 	font-size: 50px;
 	margin-right: 8px;
 }
-
+.discription-title{
+	padding-top: 20px;
+}
 
 
 
